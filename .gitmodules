@@ -1,0 +1,3 @@
+[submodule "web/app/themes/pixleight2016"]
+	path = web/app/themes/pixleight2016
+	url = https://github.com/pixleight/pixleight2016-theme.git
